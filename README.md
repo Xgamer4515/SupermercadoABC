@@ -15,7 +15,7 @@ SupermercadoABC é um aplicativo de linha de comando simples que simula um siste
 - Biblioteca padrão (iostream) para operações de entrada/saída.
 - Sistema operacional: Windows (para `system("cls")`) ou tipo Unix (para `system("clear")`).
 
-## Uso
+## Compilação e execução
 
 1. Clone o repositório:
     ```
