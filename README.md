@@ -19,15 +19,15 @@ SupermercadoABC é um aplicativo de linha de comando simples que simula um siste
 
 1. Clone o repositório:
 
-git clone https://github.com/Xgamer4515/SupermercadoABC.git
+    git clone https://github.com/Xgamer4515/SupermercadoABC.git
 
 2. Compile o código-fonte usando um compilador C++:
 
-g++ main.cpp menu.cpp calculation.cpp -o SupermercadoABC
+    g++ main.cpp menu.cpp calculation.cpp -o SupermercadoABC
 
 3. Execute o executável:
 
-./SupermercadoABC
+    ./SupermercadoABC
 
 4. Siga as instruções na tela para fazer seus pedidos e ver os resultados dos cálculos.
 
