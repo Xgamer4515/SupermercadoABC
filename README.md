@@ -31,7 +31,7 @@ g++ main.cpp menu.cpp calculation.cpp -o SupermercadoABC
 
 4. Siga as instruções na tela para fazer seus pedidos e ver os resultados dos cálculos.
 
-## Contributing
+## Contribuições
 
 Contribuições são bem-vindas! Se você tiver alguma ideia, sugestão ou relatório de bug, abra um problema ou envie um pull request.
 
