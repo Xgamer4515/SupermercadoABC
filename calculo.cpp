@@ -37,10 +37,8 @@ void calculo(float pedidos[])
     total_pedido = pedidos[0] * precos[0] + pedidos[1] * precos[1] + pedidos[2] * precos[2];
 
     for(int i = 0; i < 3; ++i)
-    {
         if(pedidos[i] > 100)
             descontos += pedidos[i] * 0.05;
-    }
 
     if(total_pedido < 5)
         custo_de_entrega = 3.5;
