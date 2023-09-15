@@ -1,13 +1,13 @@
 #include <iostream>
 #include "menu.h"
-#include "calculation.h"
+#include "calculo.h"
 using std::cin;
 
 int main()
 {
     menu();
     char opcao;
-    std::cin >> opcao;
+    cin >> opcao;
 
     opcao_invalida(opcao);
 
@@ -27,6 +27,7 @@ int main()
         cin >> opcao;
         opcao_invalida(opcao);		
     }
+    
     calculo(pedidos);
 
     return 0;
