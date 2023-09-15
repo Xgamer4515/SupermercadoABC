@@ -1,6 +1,6 @@
-#ifndef CALCULATION_H
-#define CALCULATION_H
+#ifndef CALCULO_H
+#define CALCULO_H
 
 void calculo(float pedidos[]);
 
-#endif // CALCULATION_H
+#endif // CALCULO_H
